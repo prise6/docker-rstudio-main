@@ -1,6 +1,6 @@
-# My Rstudio workflow 
+# My Rstudio Workflow 
 
-with docker & jetpack (packrat)
+_with docker & jetpack (packrat)_
 
 ## Disclaimer
 
